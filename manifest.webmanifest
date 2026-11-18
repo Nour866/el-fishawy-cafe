@@ -1,0 +1,13 @@
+{
+  "name": "El Fishawy Café Rewards",
+  "short_name": "El Fishawy",
+  "description": "برنامج الولاء والمكافآت لكافيه El Fishawy",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#3b261d",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
